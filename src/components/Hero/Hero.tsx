@@ -33,14 +33,14 @@ export function Hero() {
         <ScrollAnimation animateIn="fadeInUp" delay={1 * 1000}>
           <div className="social-media">
             <a
-              href="https://github.com/singhmanmeetsingh"
+              href="https://www.linkedin.com/in/workmanmeet7/"
               target="_blank"
               rel="noreferrer"
             >
               <img src={linkedin} alt="Linkedin" />
             </a>
             <a
-              href="https://www.linkedin.com/in/workmanmeet7/"
+              href="https://github.com/singhmanmeetsingh"
               target="_blank"
               rel="noreferrer"
             >
